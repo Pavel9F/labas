@@ -1,0 +1,10 @@
+D:\C#\projects\111\bin\Debug\111.exe.config
+D:\C#\projects\111\bin\Debug\111.exe
+D:\C#\projects\111\bin\Debug\111.pdb
+D:\C#\projects\111\obj\Debug\111.csproj.AssemblyReference.cache
+D:\C#\projects\111\obj\Debug\_111.Form1.resources
+D:\C#\projects\111\obj\Debug\_111.Properties.Resources.resources
+D:\C#\projects\111\obj\Debug\111.csproj.GenerateResource.cache
+D:\C#\projects\111\obj\Debug\111.csproj.CoreCompileInputs.cache
+D:\C#\projects\111\obj\Debug\111.exe
+D:\C#\projects\111\obj\Debug\111.pdb
